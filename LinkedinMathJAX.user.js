@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name           Run MathJax in Github
+// @name           Run MathJax in LinkedIn
 // @namespace      http://www.mathjax.org/
 // @description    Runs MathJax on any page in github.com
 // @include        https://www.linkedin.com/groups/4510047*
